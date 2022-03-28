@@ -11,4 +11,4 @@ for the player, by giving them control over the difficulty by adding abilities g
 from dying.
 
 ![grappling](https://raw.githubusercontent.com/Kaexel/iceberg/main/media/grapplingSwing.PNG)
-![grappling](https://raw.githubusercontent.com/Kaexel/iceberg/main/media/UIPicture.PNG)
+![ui](https://raw.githubusercontent.com/Kaexel/iceberg/main/media/UIPicture.png)
